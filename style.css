@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(13, 12, 93);
+}
+
+.card {
+    width: 340px;
+    margin: 50px auto;
+    padding: 0px;
+background-color: rgb(31, 30, 30);
+object-fit: contain;
+color: white;
+text-align: center;
+}
+
+img {
+    height: 500px;
+    object-fit: cover;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+hr {
+    color: white;
+    border-bottom: 3px solid color white;
+}
